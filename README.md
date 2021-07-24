@@ -1,2 +1,12 @@
-# awesome_custom_computer_vision_projects
-Contains links of repos from which we can make deep learning models on custom dataset (Classification to Action Recognition)
+### Custom Computer Vision 2d
+
+Repo contains links for doing custom tasks in computer vision
+
+1) Object Classification
+2) Object detection
+3) Object tracking
+4) Human activity recognition
+
+**Object detection**
+
+- [Yolov5](https://github.com/ajithvallabai/Custom_Objectdetection_Yolov5)
