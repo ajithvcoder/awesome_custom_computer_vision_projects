@@ -7,6 +7,9 @@ Repo contains links for doing custom tasks in computer vision
 3) Object tracking
 4) Human activity recognition
 
+**Object Classification**
+- [Custom object Classification](https://github.com/ajithvallabai/Custom_Object_Classification)
+
 **Object detection**
 
 - [Yolov5](https://github.com/ajithvallabai/Custom_Objectdetection_Yolov5)
